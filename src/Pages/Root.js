@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Navebar from "../components/Navbar/Navebar";
 import { Outlet } from "react-router-dom";
-import { MaximizeIcon, Minimize } from "lucide-react"; // أيقونة زر الفتح
+import { MaximizeIcon, Minimize } from "lucide-react"; 
 import CheckUsers from "../components/Check/CheckUsers";
 import Particles from "../components/Animation/Particles";
 
